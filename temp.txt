@@ -1,1 +1,1 @@
-check
+Set username as aman, and mail id as random
